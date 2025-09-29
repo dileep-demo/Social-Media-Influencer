@@ -1,0 +1,14 @@
+
+@media screen and (min-width: 992px){
+    .navbar-nav-center{
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+   
+}
+
+.family{
+    text-decoration: none;
+    color: black;
+}
